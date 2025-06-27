@@ -6,4 +6,3 @@ export interface Person  {
     twitter: string;
     linked: string;
 }
-
